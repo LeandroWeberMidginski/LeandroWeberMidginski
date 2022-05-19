@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Leandro
+### I'm Leandro
 
 
 💻 &nbsp;I'm a Tech Leader at Primo Tedesco.\
@@ -9,9 +9,7 @@
 ✉️ &nbsp;You can email me at leandrowebermidginski@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com) for more details about work experience.
 
-#
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroWeberMidginski&layout=compact)
 
 #
 ### 🛠 &nbsp;Tech Stack
@@ -26,6 +24,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 #
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroWeberMidginski&layout=compact)
+
+
+#
 
 ### 📫 &nbsp; How to reach me:
 
@@ -33,6 +35,7 @@
 <a href="https://www.linkedin.com/in/leandro-weber-midginski-84a312194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:leandrowebermidginski@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/leandrowebermidginski"><img src="https://img.shields.io/badge/-@leandrowebermidginski-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 
 
 <!--
