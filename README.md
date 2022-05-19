@@ -2,7 +2,20 @@
 
 # I'm Leandro
 
+
+💻 &nbsp;I'm a Tech Leader at Primo Tedesco.\
+🎓&nbsp;I graduated form Uniarp, Caçador (systems of information, 2015).\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at leandrowebermidginski@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com) for more details about work experience.
+
+#
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroWeberMidginski&layout=compact)
+
+#
 ### 🛠 &nbsp;Tech Stack
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -12,10 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-## My Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroWeberMidginski&layout=compact)
-
+#
 
 ### 📫 &nbsp; How to reach me:
 
