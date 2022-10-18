@@ -3,7 +3,7 @@
 ### I'm Leandro
 
 
-💻 &nbsp;I'm a Tech Leader at Primo Tedesco.\
+💻 &nbsp;I'm a Tech Leader.\
 🎓&nbsp;I graduated form Uniarp, Caçador (systems of information, 2015).\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at leandrowebermidginski@gmail.com. I'll try to respond as soon as possible!\
